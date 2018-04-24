@@ -1,2 +1,0 @@
-# eolinker_os
-eolinker开源版java版本
